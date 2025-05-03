@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Lorenzo, this is my first open repository (besides the one at intro)
+## Hi there 👋 My name is Lorenzo, this is my first open repository 
+(besides the one at intro)
 
 🔭 I’m currently working on some personal projects involving Vibe Coding
 🌱 I’m currently learning everything
