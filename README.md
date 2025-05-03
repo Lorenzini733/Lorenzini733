@@ -2,7 +2,9 @@
 (besides the one at intro)
 
 🔭 I’m currently working on some personal projects involving Vibe Coding
+
 🌱 I’m currently learning everything
+
 🤔 I’m looking for help with everything
 
 
